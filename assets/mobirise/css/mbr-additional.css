@@ -125,7 +125,7 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #d2a315 !important;
+  background-color: #232323 !important;
   border-color: #232323 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
@@ -1155,7 +1155,7 @@ a {
 .cid-tzMDKA0IFq .mbr-text,
 .cid-tzMDKA0IFq .mbr-section-btn {
   text-align: left;
-  color: #bbbbbb;
+  color: #2b089e;
 }
 .cid-tzMDKA0IFq .item-title {
   text-align: left;
