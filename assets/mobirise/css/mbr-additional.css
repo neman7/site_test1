@@ -1292,16 +1292,16 @@ a {
   margin-top: auto !important;
 }
 .cid-tzpOvoR509 .mbr-section-title {
-  color: #fafafa;
+  color: #000000;
 }
 .cid-tzpOvoR509 .mbr-text,
 .cid-tzpOvoR509 .mbr-section-btn {
   text-align: left;
-  color: #000000;
+  color: #f39200;
 }
 .cid-tzpOvoR509 .item-title {
   text-align: left;
-  color: #000000;
+  color: #f39200;
 }
 .cid-tzpOvoR509 .item-subtitle {
   text-align: left;
@@ -1309,7 +1309,7 @@ a {
 .cid-tzN5iJe8n2 {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-tzN5iJe8n2 img,
 .cid-tzN5iJe8n2 .item-img {
@@ -1334,7 +1334,7 @@ a {
 .cid-tzN5iJe8n2 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #232323;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1353,7 +1353,7 @@ a {
   margin-top: auto !important;
 }
 .cid-tzN5iJe8n2 .mbr-section-title {
-  color: #fafafa;
+  color: #000000;
 }
 .cid-tzN5iJe8n2 .mbr-text,
 .cid-tzN5iJe8n2 .mbr-section-btn {
