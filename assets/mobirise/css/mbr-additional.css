@@ -20,8 +20,8 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Uaf_2', sans-serif;
-  font-size: 4.6rem;
+  font-family: 'Volja1', sans-serif;
+  font-size: 3.68rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
@@ -59,6 +59,11 @@ body {
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
 }
+.display-9 {
+  font-family: 'Volja1', sans-serif;
+  font-size: 2.1rem;
+  line-height: 1.5;
+}
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -91,6 +96,11 @@ body {
     line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-9 {
     font-size: 0.96rem;
     font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
@@ -1136,6 +1146,9 @@ a {
 .cid-tzjDXAjKDI .mbr-text,
 .cid-tzjDXAjKDI .mbr-section-btn {
   color: #fafafa;
+}
+.cid-tzjDXAjKDI .mbr-text-orange {
+  color: #f39200;
 }
 .cid-tzMDKA0IFq {
   padding-top: 3rem;
