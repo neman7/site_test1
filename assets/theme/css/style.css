@@ -117,7 +117,11 @@ section .mbr-background-video-preview {
 
 /*! Base colors */
 .mbr-white {
-  color: #ffffff;
+  color: #fafafa;
+}
+
+.mbr-orange {
+  color: #f39200;
 }
 
 .mbr-black {
@@ -125,7 +129,7 @@ section .mbr-background-video-preview {
 }
 
 .mbr-bg-white {
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 
 .mbr-bg-black {
