@@ -4376,6 +4376,6 @@ a {
 .cid-tEHd2pEBsD P {
   color: #f39200;
 }
-.radio-container label{
-  position: relative;
+.form-check-min-height{
+  height: 2em;
 }
